@@ -41,6 +41,14 @@ Bash
 npx expo start
 Nota: Para visualizar la app, puedes usar el emulador de Android/iOS o escanear el código QR con la aplicación Expo Go en tu dispositivo móvil.
 
+---
+
+## 🎥 Video Demostrativo
+
+👉 [Ver video demostrativo aquí] -> https://youtu.be/iVa5-KqSqW8
+
+
+
 🤖 Uso de Inteligencia Artificial (IA)
 Para el desarrollo de esta aplicación, se contó con la asistencia de la IA Gemini (Google) como peer-programmer.
 
